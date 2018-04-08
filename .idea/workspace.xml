@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9a1af6f-5330-44e9-a654-a4044215f2d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CSS/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/CSS/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/CSS/test.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cacert-2018-03-07.pem" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/get_url.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/home_old.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/ins_fac.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,8 +58,8 @@
       <file leaf-file-name="acceuil.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/view/acceuil.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="350">
+              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -147,11 +136,6 @@
             <path>
               <item name="NITDAY18_DEV24h_CH" type="b2602c69:ProjectViewProjectNode" />
               <item name="NITDAY18_DEV24h_CH" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="NITDAY18_DEV24h_CH" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NITDAY18_DEV24h_CH" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -206,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1523114382377</updated>
       <workItem from="1523114383652" duration="19077000" />
-      <workItem from="1523155156320" duration="945000" />
+      <workItem from="1523155156320" duration="1809000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1523133920547</created>
@@ -219,13 +203,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20022000" />
+    <option name="totallyTimeSpent" value="20886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25301206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25301206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -305,8 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/view/acceuil.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="350">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding />
         </state>
       </provider>
