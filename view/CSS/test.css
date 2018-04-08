@@ -1,13 +1,13 @@
 ::selection {
-    background-color: #b5e2e7;
+    background-color: #0e1a31;
 }
 
 ::-moz-selection {
-    background-color: #8ac7d8;
+    background-color: #0e1aaf;
 }
 
 body {
-    background: #3CC;
+    background: #0e1a35;
 }
 
 .container {
@@ -68,17 +68,17 @@ h1, input {
     display: block;
     margin: 30px auto 30px;
     color: white;
-    background-color: #3CC;
+    background-color: #0e1a31;
     border: none;
-    -webkit-box-shadow: 0 5px 0 #2CADAD;
-    -moz-box-shadow: 0 5px 0 #2CADAD;
-    box-shadow: 0 5px 0 #2CADAD;
+    -webkit-box-shadow: 0 5px 0 #0e1a35;
+    -moz-box-shadow: 0 5px 0 #0e1a35;
+    box-shadow: 0 5px 0 #0e1a35;
 }
 .inputButton:hover {
     top: 2px;
-    -webkit-box-shadow: 0 3px 0 #2CADAD;
-    -moz-box-shadow: 0 3px 0 #2CADAD;
-    box-shadow: 0 3px 0 #2CADAD;
+    -webkit-box-shadow: 0 3px 0 #0e1a35;
+    -moz-box-shadow: 0 3px 0 #0e1a35;
+    box-shadow: 0 3px 0 #0e1a35;
 }
 .inputButton:active {
     top: 5px;
