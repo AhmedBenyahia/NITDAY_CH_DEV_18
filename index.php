@@ -12,7 +12,7 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
     <!------ Include the above in your HEAD tag ---------->
-    <link rel="stylesheet" href="CSS/main.css">
+    <link rel="stylesheet" href="view/CSS/main.css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 </head>
 <body class="home">
@@ -24,9 +24,9 @@
                 <ul>
                     <li <?php echo $a ?>><a href="index.php?ch=a"><i class="fa fa-home" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Home</span></a></li>
                     <li <?php echo $b ?>> <a href="index.php?ch=b"><i class="fa fa-tasks" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Workflow</span></a></li>
-                    <li <?php $c ?>> <a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Statistics</span></a></li>
-                    <li <?php $d ?>><a href="#"><i class="fa fa-user" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Calender</span></a></li>
-                    <li <?php $e ?>><a href="#"><i class="fa fa-calendar" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Users</span></a></li>
+                    <li <?php echo $c ?>> <a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Statistics</span></a></li>
+                    <li <?php echo $d ?>><a href="#"><i class="fa fa-user" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Calender</span></a></li>
+                    <li <?php echo $e ?>><a href="#"><i class="fa fa-calendar" aria-hidden="true"></i><span class="hidden-xs hidden-sm">Users</span></a></li>
                 </ul>
             </div>
         </div>
@@ -82,10 +82,10 @@
             </div>
             <div class="user-dashboard col-sm-10">
                 <?php
-                      if ($ch == 'a')  include "home.php";
-                      if ($ch == 'b')  include "ins_fac.php";
-                      if ($ch == 'c')  include "home.php";
-                      if ($ch == 'd')  include "home.php";
+                      if ($ch == 'a')  include "view/home.php";
+                      if ($ch == 'b')  include "view/ins_fac.php";
+                      if ($ch == 'c')  include "view/home.php";
+                      if ($ch == 'd')  include "view/home.php";
 
                 ?>
             </div>
