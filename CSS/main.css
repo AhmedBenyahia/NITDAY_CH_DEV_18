@@ -701,3 +701,9 @@ header {
         width: 100%;
     }
 }
+
+
+.panel {
+    margin-top: 5em;
+    margin-left: 3em;
+}
